@@ -14,7 +14,7 @@ namespace GradingSystem
                 }
                 else if (score > 100)
                 {
-                    Console.WriteLine($"Error: Score is over than hundred ({input}");
+                    Console.WriteLine($"Error: Score is over than hundred ({input})");
                 }
                 else if (score >= 80 && score <= 100)
                 {
